@@ -105,3 +105,11 @@ Keep changes small and focused.
 Update this README when new setup steps, commands, or features are added.
 
 Add examples when the project behavior becomes stable enough to document clearly.
+
+Prefer clear names for files, functions, and configuration values.
+
+Document any important assumptions directly in the repository.
+
+## Suggested Project Documentation
+
+As the project grows, consider adding:
