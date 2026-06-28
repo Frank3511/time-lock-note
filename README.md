@@ -67,3 +67,11 @@ or:
 ```bash
 yarn install
 ```
+
+Use the command that matches the files committed in the repository.
+
+## Usage
+
+Start by reviewing the available files and scripts.
+
+If a `package.json` file is present, you can check the available scripts with:
