@@ -51,3 +51,12 @@ ls
 If dependency files are present, install dependencies using the package manager that matches the project.
 
 For example:
+
+```bash
+npm install
+```
+
+or:
+
+```bash
+pnpm install
