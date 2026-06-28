@@ -97,3 +97,11 @@ npm run build
 ```
 
 Only run commands that are actually defined by the project files.
+
+## Development Notes
+
+Keep changes small and focused.
+
+Update this README when new setup steps, commands, or features are added.
+
+Add examples when the project behavior becomes stable enough to document clearly.
