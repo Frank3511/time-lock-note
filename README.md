@@ -13,3 +13,11 @@ The repository is intended to provide a place for source code, documentation, an
 This README explains how to get the project locally, how to start exploring it, and how to keep changes organized.
 
 ## Features
+
+- Clear project identity under the name `time-lock-note`
+- Public repository hosted on GitHub
+- Simple starting point for development
+- Room for documentation, examples, and implementation details as the project grows
+- Suitable structure for incremental updates and future feature work
+
+## Repository
