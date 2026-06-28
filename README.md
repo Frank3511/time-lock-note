@@ -144,3 +144,11 @@ git push origin feature/short-description
 ```
 
 ## Notes
+
+This README is intentionally practical and lightweight.
+
+It should be updated whenever the repository gains specific installation steps, runtime requirements, commands, or supported features.
+
+The canonical project location is:
+
+<https://github.com/Frank3511/time-lock-note.git>
