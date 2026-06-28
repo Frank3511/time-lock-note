@@ -60,3 +60,10 @@ or:
 
 ```bash
 pnpm install
+```
+
+or:
+
+```bash
+yarn install
+```
