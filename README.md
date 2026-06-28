@@ -113,3 +113,11 @@ Document any important assumptions directly in the repository.
 ## Suggested Project Documentation
 
 As the project grows, consider adding:
+
+- A detailed usage guide
+- Screenshots or examples
+- Configuration instructions
+- Testing instructions
+- Build and deployment notes
+- A changelog
+- Contribution guidelines
