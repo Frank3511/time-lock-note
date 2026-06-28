@@ -75,3 +75,11 @@ Use the command that matches the files committed in the repository.
 Start by reviewing the available files and scripts.
 
 If a `package.json` file is present, you can check the available scripts with:
+
+```bash
+cat package.json
+```
+
+Then run the appropriate script for development, testing, or building.
+
+Examples may include:
