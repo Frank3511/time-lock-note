@@ -90,3 +90,10 @@ npm run dev
 
 ```bash
 npm test
+```
+
+```bash
+npm run build
+```
+
+Only run commands that are actually defined by the project files.
