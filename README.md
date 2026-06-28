@@ -36,3 +36,10 @@ Then enter the project directory:
 
 ```bash
 cd time-lock-note
+```
+
+## Setup
+
+After cloning the repository, inspect the project files to determine the current implementation stack.
+
+Common next steps include:
