@@ -83,3 +83,10 @@ cat package.json
 Then run the appropriate script for development, testing, or building.
 
 Examples may include:
+
+```bash
+npm run dev
+```
+
+```bash
+npm test
