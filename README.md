@@ -129,3 +129,10 @@ Create a new branch for each change:
 ```bash
 git checkout -b feature/short-description
 ```
+
+Commit related changes together:
+
+```bash
+git add .
+git commit -m "Describe the change"
+```
