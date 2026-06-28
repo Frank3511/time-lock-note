@@ -29,3 +29,10 @@ The project is hosted at:
 You can clone it with:
 
 ```bash
+git clone https://github.com/Frank3511/time-lock-note.git
+```
+
+Then enter the project directory:
+
+```bash
+cd time-lock-note
