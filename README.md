@@ -43,3 +43,11 @@ cd time-lock-note
 After cloning the repository, inspect the project files to determine the current implementation stack.
 
 Common next steps include:
+
+```bash
+ls
+```
+
+If dependency files are present, install dependencies using the package manager that matches the project.
+
+For example:
