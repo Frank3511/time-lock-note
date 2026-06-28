@@ -21,3 +21,11 @@ This README explains how to get the project locally, how to start exploring it, 
 - Suitable structure for incremental updates and future feature work
 
 ## Repository
+
+The project is hosted at:
+
+<https://github.com/Frank3511/time-lock-note.git>
+
+You can clone it with:
+
+```bash
