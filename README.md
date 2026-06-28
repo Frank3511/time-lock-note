@@ -121,3 +121,11 @@ As the project grows, consider adding:
 - Build and deployment notes
 - A changelog
 - Contribution guidelines
+
+## Git Workflow
+
+Create a new branch for each change:
+
+```bash
+git checkout -b feature/short-description
+```
