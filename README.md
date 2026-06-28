@@ -136,3 +136,11 @@ Commit related changes together:
 git add .
 git commit -m "Describe the change"
 ```
+
+Push the branch when ready:
+
+```bash
+git push origin feature/short-description
+```
+
+## Notes
